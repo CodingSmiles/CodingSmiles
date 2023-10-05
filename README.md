@@ -1,13 +1,8 @@
-<style>
-    img {
-        border-radius: 45%;
-        margin-bottom: 5%
-    }
-</style>
 
-<center>
-<img src='https://raw.githubusercontent.com/CodingSmiles/CodingSmiles/main/PFP.png' height='100' >
-</center>
+
+<p align="center">
+  <img width="90" height="90" src="https://raw.githubusercontent.com/CodingSmiles/CodingSmiles/main/PFP-modified.png">
+</p>
 
 # Hi, I'm Aadiraj! 👋
 
