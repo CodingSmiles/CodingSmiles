@@ -7,15 +7,16 @@
 # Hi, I'm Aadiraj! 👋
 
 ## 🚀 About Me
-I'm a 13 year old student with skills ranging from app development to backend processing (almost full-stack 😅)
+I'm a 13-year-old student with skills ranging from app development to backend processing (almost full-stack 😅)
 
 ## 🛠️ Skills
 I'm working on building this list
 
 - App Development with **Flutter**
 - Backend with **Go** and **Dart**
+- Embedded Systems Development with **C++**
 - Source Control with **Git**
-- HTML, CSS, JavaScript
+- **HTML**, **CSS**, **JavaScript**
 - **Python**
 - Ruby On Rails
 
