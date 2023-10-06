@@ -14,10 +14,11 @@ I'm working on building this list
 
 - App Development with **Flutter**
 - Source Control with **Git**
+- Embedded systems development with **C++**
+- **Arduino** Prototyping
 - Backend with **Go** and **Dart**
-- HTML, CSS, JavaScript
+- **HTML**, **CSS**, **JavaScript**
 - **Python**
-- ****
 
 ## ✨ My Projects
 I'm working on lots of them while balancing this and my studies (I'm great at those too!). Here are some of the notable ones!
