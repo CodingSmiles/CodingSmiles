@@ -7,7 +7,7 @@
 # Hi, I'm Aadiraj! 👋
 
 ## 🚀 About Me
-I'm a 13 year old student with skills ranging from app development to backend processing (almost full-stack 😅)
+I'm a 13-year-old student with skills ranging from app development to backend processing (almost full-stack 😅)
 
 ## 🛠️ Skills
 I'm working on building this list
