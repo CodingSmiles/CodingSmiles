@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img width="90" height="90" src="https://raw.githubusercontent.com/CodingSmiles/CodingSmiles/main/PFP-modified.png">
+  <img width="110" height="110" src="https://raw.githubusercontent.com/CodingSmiles/CodingSmiles/main/PFP-modified.png">
 </p>
 
 # Hi, I'm Aadiraj! 👋
@@ -13,11 +13,11 @@ I'm a 13 year old student with skills ranging from app development to backend pr
 I'm working on building this list
 
 - App Development with **Flutter**
-- Backend with **Go** and **Dart**
 - Source Control with **Git**
+- Backend with **Go** and **Dart**
 - HTML, CSS, JavaScript
 - **Python**
-- Ruby On Rails
+- ****
 
 ## ✨ My Projects
 I'm working on lots of them while balancing this and my studies (I'm great at those too!). Here are some of the notable ones!
@@ -42,5 +42,9 @@ I felt like including this here
 - Ubuntu
 
 ## 🌍 Where I am
-I'm in Mumbai, India
+I'm in **Mumbai**, **India**
 
+<br></br>
+---
+
+```CodingSmiles```
