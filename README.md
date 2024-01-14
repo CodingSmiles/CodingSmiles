@@ -27,13 +27,10 @@ I'm working on lots of them while balancing this and my studies (I'm great at th
 - [My To-Do List Website](https://github.com/CodingSmiles/computer-project)
 - [My Text Editor I call an IDE](https://github.com/CodingSmiles/Aadiraj_IDE)
 - [The Conquest](https://theconquest.substack.com/)
-
-Projects with my greatest friend, **Ayushman Kalita**
 - [SpaceBird Aerospace](https://www.youtube.com/@SpaceBirdAerospace)
 
 ## 🎉 Accomplishments
 This list must grow!!!
-- [SpaceBird Aerospace on NASA SpaceApps](https://www.spaceappschallenge.org/2023/find-a-team/spacebird-aerospace/)
 - [My Leetcode (Not the greatest)](https://leetcode.com/SpaceBirdAero/)
 
 
