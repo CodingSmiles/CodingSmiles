@@ -1,8 +1,9 @@
-
-
+<!--
 <p align="center">
   <img width="110" height="110" src="https://raw.githubusercontent.com/CodingSmiles/CodingSmiles/main/PFP-modified.png">
 </p>
+-->
+
 
 # Hi, I'm Aadiraj! 👋
 
