@@ -29,10 +29,6 @@ I'm working on lots of them while balancing this and my studies (I'm great at th
 - [The Conquest](https://theconquest.substack.com/)
 - [SpaceBird Aerospace](https://www.youtube.com/@SpaceBirdAerospace)
 
-## 🎉 Accomplishments
-This list must grow!!!
-- [My Leetcode (Not the greatest)](https://leetcode.com/SpaceBirdAero/)
-
 
 ## 💻 My Development Setup
 I felt like including this here
