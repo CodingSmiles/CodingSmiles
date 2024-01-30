@@ -26,7 +26,7 @@ I'm working on building this list
 ## ✨ My Projects
 I'm working on lots of them while balancing this and my studies (I'm great at those too!). Here are some of the notable ones!
 
-- [Foundation AI (Coming Soon)]()
+- [Foundation AI (Coming Soon)](https://github.com/CodingSmiles)
 - [My To-Do List Website](https://github.com/CodingSmiles/computer-project)
 - [The Conquest](https://theconquest.substack.com/)
 - [SpaceBird Aerospace](https://www.youtube.com/@SpaceBirdAerospace)
