@@ -32,9 +32,7 @@ I'm working on lots of them while balancing this and my studies (I'm great at th
 - [SpaceBird Aerospace](https://www.youtube.com/@SpaceBirdAerospace)
 
 ## ✨ Accomplishments
-This list will grow soon with some great additions, for now, I've kept the one I'm focusing on!
-
-- Applied for a **Guinness World Record**: "Youngest Educational Mobile App Developer"
+This list will grow soon with some great additions, for now, I'm keeping them secret 🤭
 
 
 ## 🌍 Where I am
