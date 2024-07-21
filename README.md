@@ -5,7 +5,7 @@
 -->
 
 
-# Hi, I'm Aadiraj! 👋
+<!-- # Hi, I'm Aadiraj! 👋 -->
 
 ## 🚀 About Me
 I'm a student with skills ranging from app development to backend design and implementation (Full Stack).
